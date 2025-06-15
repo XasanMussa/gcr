@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512647254623",
+    "project_id": "grasscuttingrobot",
+    "storage_bucket": "grasscuttingrobot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512647254623:android:30c86856e47fd4cfc401ea",
+        "android_client_info": {
+          "package_name": "com.example.grass_cutting_robot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrduzn6iXRxrjg9Vgs51p2pYUkkcrAF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
